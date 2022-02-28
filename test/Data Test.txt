@@ -1,0 +1,10 @@
+List Dataset yang diuji:
+1. Dataset Iris
+   - Petal Length vs Petal Width
+   - Sepal Length vs Sepal Width
+2. Dataset Wine
+   - Ash vs Alcalinity of Ash
+   - Alcohol vs Color Intensity
+3. Dataset Breast Cancer Wisconsin
+   - Mean Texture vs Worst Texture
+   - Mean Perimeter vs Worst Perimeter
